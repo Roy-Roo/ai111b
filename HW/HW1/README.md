@@ -79,9 +79,9 @@ plt.show()
 
 ### 結果
 
-![](D:\大學\大三\大三下\人工智慧\HW\HW1\HW1.jpg)
+![](https://github.com/Roy-Roo/ai111b/blob/main/HW/HW1/HW1.jpg)
 
-![](D:\大學\大三\大三下\人工智慧\HW\HW1\HW1-2.jpg)
+![](https://github.com/Roy-Roo/ai111b/blob/main/HW/HW1/HW1-2.jpg)
 
 
 
