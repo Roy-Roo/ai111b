@@ -70,7 +70,7 @@ print("Length:", length)
 
 > 結果
 
-![](D:\大學\大三\大三下\人工智慧\HW\HW2\HW2.jpg)
+![](https://github.com/Roy-Roo/ai111b/blob/main/HW/HW2/HW2.jpg)
 
 > 來源
 
