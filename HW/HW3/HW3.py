@@ -15,7 +15,7 @@ def dfs(r):
     for i in range(8):
         if check(r, i):
             col[i] = x1[r+i] = x2[r-i+8] = True  # 佔用位置(r, i)
-            dfs(r+1)  # 遞歸搜索下一行
+            dfs(r+1)  # 遞迴搜索下一行
             col[i] = x1[r+i] = x2[r-i+8] = False  # 回溯，釋放位置(r, i)
 
 dfs(0)  # 從第0行開始搜索
