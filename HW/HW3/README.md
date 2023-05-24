@@ -44,3 +44,5 @@ print(ans)
 * [【深度优先搜索】20行代码解决8皇后问题](https://blog.csdn.net/m0_52043808/article/details/122893673)
 
 * ChatGPT
+
+    * 上註解及解決原本C++程式碼的問題
