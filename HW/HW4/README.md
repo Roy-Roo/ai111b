@@ -44,4 +44,4 @@ print("翻譯結果：", translated_text)
 
 * ChatGPT (全由chatgpt生成 無更動)
 
-![](D:\大學\大三\大三下\人工智慧\HW\HW4\HW4.jpg)
+![](https://github.com/Roy-Roo/ai111b/blob/main/HW/HW4/HW4.jpg)
