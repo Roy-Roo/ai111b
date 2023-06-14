@@ -50,7 +50,7 @@ print("翻譯結果：", translated_text)
 
 ### 結果
 
-![](D:\大學\大三\大三下\人工智慧\HW\MidHW\MidHW.jpg)
+![](https://github.com/Roy-Roo/ai111b/blob/main/HW/MidHW/MidHW.jpg)
 
 
 
